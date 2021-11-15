@@ -1,0 +1,1 @@
+﻿Ant,Bird,Cat,Gun,Horse,Ice,Jug,Dog,Eql,Frog
